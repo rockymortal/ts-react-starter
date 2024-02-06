@@ -1,3 +1,5 @@
+![Node CI](https://github.com/rockymortal/ts-react-starter/actions/workflows/node.yml/badge.svg) [![Storybook](https://img.shields.io/badge/Storybook-Docs-brightgreen.svg)](https://github.com/rockymortal/ts-react-starter/tree/main/.storybook)
+
 This repo is now deprecated. In the time since it created [TypeScript support](https://facebook.github.io/create-react-app/docs/adding-typescript) is now a default feature of [Create React App](https://facebook.github.io/create-react-app/), [Next.JS](https://nextjs.org) and [Razzle](https://github.com/jaredpalmer/razzle). 
 
 This means you can get started with:
